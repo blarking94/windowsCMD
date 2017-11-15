@@ -17,4 +17,6 @@ Create and edit this "env.cmd" file under the user profile directory and fill it
 
 * doskey sublime=C:\Windows\System32\cmd.exe /c "SET LANG=en && START /D ^"C:\Program Files\Sublime Text 3^" sublime_text.exe"
 
+* doskey ls=dir (because why not!)
+
 
