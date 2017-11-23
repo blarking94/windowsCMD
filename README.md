@@ -1,7 +1,7 @@
 # Windows Command Project
 ## A handy place for common windows commands 
 
-### Creating a new alias and saving them
+### Creating a new alias and saving it
 
 #### To save alias's on windows and create them when you start the command line
 
