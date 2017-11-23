@@ -19,4 +19,7 @@ Create and edit this "env.cmd" file under the user profile directory and fill it
 
 * doskey ls=dir (because why not!)
 
+* doskey rm=del $*
+
+* doskey search=echo cd C:\ ^&^& DIR /s $*
 
