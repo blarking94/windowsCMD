@@ -7,7 +7,7 @@
 
 1. Open the registry editor by searching for **regedit** in the search bar 
 2. Select HKEY_CURRENT_USER -> SOFTWARE -> MICROSOFT -> Command Processor
-3. Add a new String Value with name "AutoRun" and data "%USERPROFILE%\env.cmd
+3. Add a new String Value with name "AutoRun" and data "%USERPROFILE%\env.cmd"
 
 Create and edit this "env.cmd" file under the user profile directory and fill it with your terminal start up commands!
 
