@@ -23,3 +23,8 @@ Create and edit this "env.cmd" file under the user profile directory and fill it
 
 * doskey search=echo cd C:\ ^&^& DIR /s $*
 
+#### Disable and Enable Hyper V (from an elevated powershell)
+
+* dism.exe /Online /Disable-Feature:Microsoft-Hyper-V
+
+* dism.exe /Online /Enable-Feature:Microsoft-Hyper-V /All
